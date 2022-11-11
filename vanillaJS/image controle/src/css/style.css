@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main {
+  background: #ffc600;
+}
+
+.images {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  width: 80%;
+  height: 80vh;
+}
