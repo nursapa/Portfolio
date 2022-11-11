@@ -62,6 +62,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <h6>Projects with page layouts using HTML, CSS, Bootstrap.</h6>
 <a href='#'>HTML,CSS<a/>  
 <h6>Projects in which I used only Vanilla JS.</h6>
-<a href='#'>Vanilla JS<a/>  
+<a href='https://github.com/nursapa/Portfolio/tree/main/vanillaJS'>Vanilla JS<a/>  
 <h6>And projects where frameworks were used.</h6>
 <a href='#'>React<a/>
